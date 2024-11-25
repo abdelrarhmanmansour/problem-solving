@@ -1,5 +1,6 @@
 # Codeforces Problem Solution
 #  this is my handle at Codeforces : Abdelrahman_Mansour741
+# the link of ICPC Assiut University Community is : https://codeforces.com/group/MWSDmqGsZm/contests
 
 
 Hi I am Abdelrahman Mansour Hamed 
